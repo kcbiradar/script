@@ -3,7 +3,7 @@
 set -e
 set -o pipefail
 
-REPO_URL="https://github.com/yourusername/fastapi-app.git"
+REPO_URL="https://github.com/kcbiradar/script/tree/main/fastapi-app"
 APP_DIR="fastapi-app"
 
 GREEN='\033[0;32m'
